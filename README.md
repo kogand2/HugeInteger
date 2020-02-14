@@ -1,0 +1,1 @@
+The range of integers that can be represented in Java using a primitive datatype is only from −2^63 to 2^63 −1. What if we need to manipulate integer values beyond this range? This class handles such cases.
